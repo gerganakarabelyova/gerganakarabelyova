@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gery
 ============================================================================================================================
 
-I am a Software Developer @ Yettel Bulgaria
+I am a Software Developer @ Yettel Bulgaria since December 2023
 -------------------------------------------
 
 I have a deep appreciation for the power of learning. Studying is not just a task for me; it's a mindset that allows me to stay open to new ideas, challenge my perspectives, and foster a continuous state of intellectual growth.
